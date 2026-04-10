@@ -31,8 +31,8 @@ Always looking to improve, learn, and take on challenging problems.
 | Project | Description | Tech |
 |--------|------------|----------|
 | [🎮 Cub3D](REPO_LINK) | 2.5D raycasting engine inspired by **Wolfenstein 3D** — textured rendering, map parsing, minimap, day/night cycle, dynamic lighting and interactive elements. Focus on graphics programming and performance optimization. | C, MiniLibX |
-| [🐚 Minishell](REPO_LINK) | Unix shell built from scratch with pipes, redirections, environment variables, built-in commands and signal handling. Focus on process management and file descriptor control. | C |
-| [💬 IRC Server](REPO_LINK) | IRC server compliant with RFC 1459, supporting multiple clients, channels, operators, and private messages. Focus on networking, socket programming and client-server architecture. | C++98 |
+| [🐚 Minishell](https://github.com/KrispyFbacon/Minishell) | Unix shell built from scratch with pipes, redirections, environment variables, built-in commands and signal handling. Focus on process management and file descriptor control. | C |
+| [💬 IRC Server](https://github.com/KrispyFbacon/IRC) | IRC server compliant with RFC 1459, supporting multiple clients, channels, operators, and private messages. Focus on networking, socket programming and client-server architecture. | C++98 |
 | [🍝 Philosophers](REPO_LINK) | Concurrency problem using threads and mutexes. Focus on synchronization, race conditions and deadlock prevention. | C |
 | [🐳 Inception](REPO_LINK) | Docker-based web infrastructure orchestrated with Docker Compose, featuring Nginx, MariaDB and WordPress. Focus on containerization, networking and service orchestration. | Docker, Nginx, MariaDB, WordPress |
 | [⚙️ C++ Modules 00-09](REPO_LINK) | Deep dive into **Object-Oriented Programming** — memory management, inheritance, polymorphism, templates, containers, exceptions and algorithms | C++98 |
