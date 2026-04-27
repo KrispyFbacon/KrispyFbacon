@@ -10,7 +10,20 @@
 </div>
 <div align="center">
 
+
+### Let's Connect
+
+  <a href="https://www.linkedin.com/in/francisco-antunes-dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:franciscoantunes.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
 <div align="center">
+
+---
 
 ### About Me
 
@@ -79,19 +92,5 @@ Always looking to improve, learn, and take on challenging problems.
     </tr>
 </table>
 </div>    
-
----
-
-<div align="center">
-    
-### Let's Connect
-
-  <a href="https://www.linkedin.com/in/francisco-antunes-dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:franciscoantunes.dev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
 
 ---
