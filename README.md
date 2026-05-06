@@ -50,7 +50,7 @@ Always looking to improve, learn, and take on challenging problems.
 | [🐳 Inception](REPO_LINK) | Docker-based web infrastructure orchestrated with Docker Compose, featuring Nginx, MariaDB and WordPress. Focus on containerization, networking and service orchestration. | Docker, Nginx, MariaDB, WordPress |
 | [⚙️ C++ Modules 00-09](REPO_LINK) | Deep dive into **Object-Oriented Programming** — memory management, inheritance, polymorphism, templates, containers, exceptions and algorithms | C++98 |
 | [🎮 So_Long](REPO_LINK) | 2D tile-based game with map parsing, player movement and win conditions | C, MiniLibX |
-| [📚 Libft & ft_printf](REPO_LINK) | Custom C standard library + printf implementation from scratch | C |
+| [📚 Libft & ft_printf](https://github.com/KrispyFbacon/Libft.git) | Custom C standard library + printf implementation from scratch | C |
 
 ---
 
