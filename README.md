@@ -43,7 +43,7 @@ Always looking to improve, learn, and take on challenging problems.
 
 | Project | Description | Tech |
 |--------|------------|----------|
-| [🎮 Cub3D](REPO_LINK) | 2.5D raycasting engine inspired by **Wolfenstein 3D** — textured rendering, map parsing, minimap, day/night cycle, dynamic lighting and interactive elements. Focus on graphics programming and performance optimization. | C, MiniLibX |
+| [🎮 Cub3D](https://github.com/KrispyFbacon/Cub3d.git) | 2.5D raycasting engine inspired by **Wolfenstein 3D** — textured rendering, map parsing, minimap, day/night cycle, dynamic lighting and interactive elements. Focus on graphics programming and performance optimization. | C, MiniLibX |
 | [🐚 Minishell](https://github.com/KrispyFbacon/Minishell) | Unix shell built from scratch with pipes, redirections, environment variables, built-in commands and signal handling. Focus on process management and file descriptor control. | C |
 | [💬 IRC Server](https://github.com/KrispyFbacon/IRC) | IRC server compliant with RFC 1459, supporting multiple clients, channels, operators, and private messages. Focus on networking, socket programming and client-server architecture. | C++98 |
 | [🍝 Philosophers](REPO_LINK) | Concurrency problem using threads and mutexes. Focus on synchronization, race conditions and deadlock prevention. | C |
